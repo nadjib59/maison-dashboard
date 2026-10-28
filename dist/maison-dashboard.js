@@ -10,7 +10,7 @@
  *
  * Licence MIT. Aucune dépendance (pas d'autre carte HACS requise).
  */
-const MD_VERSION = "0.1.0";
+const MD_VERSION = "0.1.1";
 
 /* ───────────────────────────── outils ───────────────────────────── */
 const domainOf = (e) => e.split(".")[0];
