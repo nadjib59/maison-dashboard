@@ -8,6 +8,12 @@ Dashboard Home Assistant sombre, pensé pour le téléphone, **construit automat
 Accueil simple  →  bouton « Maison » (pièces par étage)  →  page de la pièce
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadjib59/maison-dashboard/main/images/menu-maison.png" width="260" alt="Menu Maison : pièces par étage">
+  <img src="https://raw.githubusercontent.com/nadjib59/maison-dashboard/main/images/piece.png" width="260" alt="Page d'une pièce">
+  <img src="https://raw.githubusercontent.com/nadjib59/maison-dashboard/main/images/chauffage.png" width="260" alt="Vue Chauffage">
+</p>
+
 ## Fonctionnalités
 
 - **Zéro configuration** : les pièces viennent des zones de Home Assistant, les étages des étages ; chaque pièce affiche ce qui s'y trouve réellement (lumières, chauffage, volets, multimédia, serrures, aspirateur, caméras). Une pièce sans télévision n'affiche pas de commandes de télévision.
