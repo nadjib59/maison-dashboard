@@ -1,0 +1,7 @@
+{
+  "name": "Maison Dashboard",
+  "filename": "maison-dashboard.js",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2024.8.0"
+}
